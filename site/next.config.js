@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://kanwatinfotech.github.io/kasm-workspaces/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://kanwatinfotech.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
